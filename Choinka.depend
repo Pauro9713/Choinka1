@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1508683839 source:c:\users\admin\desktop\projekty c++\nowy folder\choinka\main.cpp
+	<iostream>
+	"windows.h"
+
+1508683839 source:c:\users\admin\desktop\projekty c++\nowy folder\choinka\choinka1\main.cpp
+	<iostream>
+	"windows.h"
+
